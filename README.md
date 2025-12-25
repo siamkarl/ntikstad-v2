@@ -1,7 +1,5 @@
 # NTIkstad — av Siam Karlsson
 
-En lättviktig PHP-baserad filhanterings- och klubbplattform för delning, annonser och supportärenden.
-
 ## Snabbstart
 
 - Installera en lokal PHP-server (t.ex. XAMPP, WAMP eller MAMP).
@@ -61,6 +59,8 @@ Användare kan välja tema och språk via gränssnittet (om stöd finns i front-
 2. Skapa en databas och importera eventuellt medföljande SQL (om tillämpligt).
 3. Konfigurera `config.php` med databasuppgifter och bas-URL.
 4. Sätt korrekta filbehörigheter för `uploads/` och `storage/user_files/`.
+
+OBS: Glöm inte att uppdatera `config.php` med korrekta databasinställningar (host, databas, användare, lösenord) innan du kör applikationen. Projektet kräver en MySQL- eller MariaDB-server — se till att en sådan är installerad och körs.
 
 ## Administratörskonto (test)
 
