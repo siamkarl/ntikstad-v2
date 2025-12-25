@@ -100,7 +100,7 @@ VARNING: Detta lösenord är mycket svagt. Byt det omedelbart i en produktionsmi
 
 ## Licens
 
-- Ingen licens specificerad — använd internt eller kontakta projektägaren för clarifiering.
+- Licens: MIT — se `LICENSE` för fullständig text.
 
 ---
 
