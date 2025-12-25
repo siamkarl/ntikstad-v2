@@ -1,4 +1,4 @@
-# Filhanteringssystem — Dokumentation
+# NTIkstad — av Siam Karlsson
 
 En lättviktig PHP-baserad filhanterings- och klubbplattform för delning, annonser och supportärenden.
 
